@@ -450,8 +450,8 @@ gast==0.4.0 \
     --hash=sha256:40feb7b8b8434785585ab224d1568b857edb18297e5a3047f1ba012bc83b42c1 \
     --hash=sha256:b7adcdd5adbebf1adf17378da5ba3f543684dbec47b1cda1f3997e573cd542c4
     # via tensorflow
-gdown==4.7.1 \
-    --hash=sha256:347f23769679aaf7efa73e5655270fcda8ca56be65eb84a4a21d143989541045 \
+gdown==5.2.0 \
+    --hash=sha256:33083832d82b1101bdd0e9df3edd0fbc0e1c5f14c9d8c38d2a35bf1683b526d6\
     --hash=sha256:65d495699e7c2c61af0d0e9c32748fb4f79abaf80d747a87456c7be14aac2560
     # via -r requirements.in
 gin==0.1.6 \
