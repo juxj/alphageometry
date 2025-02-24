@@ -20,6 +20,7 @@ wheels/
 ag_ckpt_vocab/
 bin/
 meliad_lib/
+pyvenv.cfg
 share/python-wheels/
 *.egg-info/
 .installed.cfg
