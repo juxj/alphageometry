@@ -17,6 +17,9 @@ parts/
 sdist/
 var/
 wheels/
+ag_ckpt_vocab/
+bin/
+meliad_lib/
 share/python-wheels/
 *.egg-info/
 .installed.cfg

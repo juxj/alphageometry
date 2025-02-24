@@ -17,6 +17,7 @@
 set -e
 set -x
 
+pyenv local 3.10.9
 pip install virtualenv
 virtualenv -p python3 .
 source ./bin/activate

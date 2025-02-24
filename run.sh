@@ -21,6 +21,7 @@ source ./bin/activate
 
 MELIAD_PATH=meliad_lib/meliad
 export PYTHONPATH=$PYTHONPATH:$MELIAD_PATH
+DATA=ag_ckpt_vocab
 
 DDAR_ARGS=(
   --defs_file=$(pwd)/defs.txt \
